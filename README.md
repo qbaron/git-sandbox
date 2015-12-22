@@ -1,3 +1,3 @@
 # git-sandbox
 
-A safe place to experiment with git.
+A very safe place to experiment with git.
