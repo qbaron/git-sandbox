@@ -1,4 +1,5 @@
 # git-sandbox
 
-A very safe locale to experiment with git.
+A very safe locale and spot to experiment with git.
+
 Here is a new line.
